@@ -1,3 +1,3 @@
 # Teste
 
-[página de teste](pages/teste.md)
+[página de teste](pages/pagina_teste.md)
