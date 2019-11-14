@@ -1,3 +1,3 @@
 # DocLivreBR
 
-[Linux](linux/index.md) | [Shell e Bash](shell/index.md) | [Software Livre](software-livre/index.md)
+[Linux](linux/) | [Shell e Bash](shell/) | [Software Livre](software-livre/)
