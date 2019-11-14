@@ -1,3 +1,3 @@
 # Teste
 
-Apenas um teste!
+[página de teste](pages/teste.md)
